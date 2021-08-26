@@ -1,0 +1,722 @@
+[INFO ] 2021-08-26 08:23:35.860 [TestNG-tests-3] Log - Started - Tests : Edge Tests
+[INFO ] 2021-08-26 08:23:35.860 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:23:35.860 [TestNG-tests-2] Log - Started - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:23:49.959 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:23:49.963 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:23:55.517 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:23:55.725 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:23:55.727 [TestNG-tests-3] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:23:57.935 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:23:58.254 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:23:59.653 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:24:00.111 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:24:00.984 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:24:01.529 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:24:02.528 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:24:02.755 [TestNG-tests-3] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:24:03.166 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:24:03.166 [TestNG-tests-2] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:24:04.071 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:24:04.278 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:24:04.534 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:24:05.764 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:24:05.963 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:24:06.039 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:24:07.379 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:24:07.607 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:24:08.539 [TestNG-tests-2] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:24:09.691 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:24:10.841 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:24:12.095 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:24:35.859 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:24:35.862 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:24:37.669 [TestNG-tests-3] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:24:37.671 [TestNG-tests-3] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:24:42.203 [TestNG-tests-2] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:24:42.203 [TestNG-tests-2] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:24:44.669 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:24:44.669 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:24:46.503 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:24:47.294 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:24:47.295 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:24:48.669 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:24:49.001 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:24:50.904 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:24:50.957 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:24:53.113 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:24:53.149 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:24:55.089 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:24:55.278 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:24:57.053 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:24:57.122 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:24:59.335 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:25:01.652 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:01.655 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:25:03.051 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:25:04.335 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:25:05.473 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:25:06.765 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:25:08.030 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:25:09.514 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:25:11.728 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:25:11.729 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:25:12.100 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:25:12.101 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:25:13.073 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:25:13.074 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:25:22.565 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:22.566 [TestNG-tests-3] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:25:23.271 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:23.271 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:25:23.997 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:25:25.851 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:25:26.994 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:27.933 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:28.359 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:30.340 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:30.433 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:32.069 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:25:32.092 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:33.534 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:25:33.895 [TestNG-tests-3] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:25:34.452 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:34.452 [TestNG-tests-2] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:25:35.051 [TestNG-tests-3] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:25:35.051 [TestNG-tests-3] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:25:35.246 [TestNG-tests-1] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:25:35.787 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:25:36.410 [TestNG-tests-1] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:25:36.411 [TestNG-tests-1] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:25:37.148 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:38.852 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:40.380 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:25:41.881 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:25:43.284 [TestNG-tests-2] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:25:44.475 [TestNG-tests-2] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:25:44.475 [TestNG-tests-2] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:25:50.169 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:50.169 [TestNG-tests-1] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:25:50.408 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:25:50.409 [TestNG-tests-3] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:25:51.715 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:25:51.814 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:25:56.891 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:57.059 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:58.473 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:25:58.680 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:00.267 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:00.448 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:01.547 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:01.811 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:03.423 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:03.442 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:04.897 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:26:04.897 [TestNG-tests-2] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:26:05.399 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:05.459 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:06.258 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:26:06.760 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:06.790 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:08.025 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:08.062 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:09.177 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:09.221 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:10.331 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:10.406 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:10.972 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:11.630 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:26:11.764 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:26:12.270 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:13.311 [TestNG-tests-3] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:26:13.541 [TestNG-tests-1] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:26:13.589 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:14.441 [TestNG-tests-3] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:26:14.709 [TestNG-tests-1] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:26:14.907 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:15.556 [TestNG-tests-3] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:26:15.830 [TestNG-tests-1] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:26:16.214 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:26:16.674 [TestNG-tests-3] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:26:16.986 [TestNG-tests-1] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:26:17.518 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:17.796 [TestNG-tests-3] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:26:18.156 [TestNG-tests-1] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:26:18.819 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:26:18.943 [TestNG-tests-3] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:26:19.338 [TestNG-tests-1] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:26:20.070 [TestNG-tests-3] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:26:20.070 [TestNG-tests-3] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:26:20.118 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:20.436 [TestNG-tests-3] Log - Finished - Tests : Edge Tests
+[INFO ] 2021-08-26 08:26:20.546 [TestNG-tests-1] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:26:20.546 [TestNG-tests-1] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:26:21.462 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:22.062 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:26:22.779 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:26:24.086 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:26:25.268 [TestNG-tests-2] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:26:26.379 [TestNG-tests-2] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:26:27.482 [TestNG-tests-2] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:26:28.588 [TestNG-tests-2] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:26:29.693 [TestNG-tests-2] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:26:30.802 [TestNG-tests-2] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:26:31.893 [TestNG-tests-2] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:26:31.894 [TestNG-tests-2] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:26:33.189 [TestNG-tests-2] Log - Finished - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:38:13.045 [TestNG-tests-2] Log - Started - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:38:13.045 [TestNG-tests-3] Log - Started - Tests : Edge Tests
+[INFO ] 2021-08-26 08:38:13.045 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:38:30.170 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:38:30.175 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:38:35.630 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:38:36.038 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:38:36.040 [TestNG-tests-3] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:38:37.954 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:38:38.100 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:38:39.231 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:38:40.310 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:38:40.826 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:38:41.792 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:38:42.373 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:38:42.374 [TestNG-tests-2] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:38:42.465 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:38:43.259 [TestNG-tests-3] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:38:43.747 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:38:44.672 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:38:45.091 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:38:45.345 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:38:46.670 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:38:46.676 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:38:47.004 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:38:48.005 [TestNG-tests-2] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:38:48.584 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:38:49.303 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:38:50.446 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:38:51.662 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:39:16.809 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:39:16.812 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:39:18.652 [TestNG-tests-3] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:39:18.653 [TestNG-tests-3] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:39:21.687 [TestNG-tests-2] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:39:21.687 [TestNG-tests-2] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:39:24.730 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:39:24.732 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:39:27.950 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:39:29.414 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:39:29.415 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:39:29.872 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:39:30.720 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:39:32.739 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:39:32.994 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:39:34.757 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:39:34.980 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:39:36.708 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:39:37.736 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:39:38.468 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:39:40.063 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:39:41.733 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:39:42.757 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:39:42.758 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:39:44.265 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:39:44.266 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:39:44.893 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:39:44.894 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:39:46.255 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:39:54.618 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:39:54.619 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:39:54.756 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:39:54.756 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:39:56.397 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:39:56.716 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:39:57.103 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:39:57.852 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:39:58.542 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:39:58.706 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:39:59.122 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:00.175 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:40:00.319 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:00.564 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:40:01.884 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:01.986 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:02.420 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:03.417 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:03.893 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:04.043 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:04.044 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:05.071 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:05.767 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:10.298 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:10.298 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:19.981 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:19.983 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:25.565 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:40:25.565 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:40:26.462 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:40:26.462 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:40:26.910 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:40:27.997 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:40:28.992 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:40:29.346 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:40:30.450 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:40:30.484 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:40:31.867 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:33.595 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:33.603 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:35.582 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:36.112 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:36.848 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:40:36.849 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:40:37.483 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:38.237 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:40:39.779 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:40:41.297 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:40:41.418 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:41.420 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:42.837 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:40:44.312 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:40:45.742 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:40:48.722 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:48.722 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:55.558 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:40:55.559 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:40:57.576 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:40:57.576 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:40:59.139 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:00.929 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:41:02.893 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:41:05.643 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:41:07.962 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:41:09.456 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:41:10.169 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:41:10.170 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:41:12.422 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:14.526 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:41:15.738 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:41:17.023 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:41:17.921 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:41:17.921 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:41:18.198 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:41:19.389 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:19.745 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:41:20.940 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:41:22.571 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:41:24.586 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:41:26.303 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:41:26.441 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:41:26.441 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:41:27.775 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:41:31.753 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:41:31.754 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:41:35.517 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:41:35.517 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:41:35.966 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:41:35.967 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:41:36.765 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:39.115 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:41:40.543 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:41:42.169 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:41:43.896 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:41:45.884 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:41:51.002 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:41:51.002 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:41:51.283 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:41:51.283 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:41:52.667 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:54.031 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:41:54.812 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:41:54.812 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:41:55.173 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:41:56.188 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:41:56.460 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:41:57.963 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:41:58.999 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:42:00.201 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:42:03.051 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:42:03.894 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:42:03.894 [TestNG-tests-3] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:42:04.788 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:42:04.790 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:42:05.524 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:42:06.458 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:42:07.677 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:42:08.013 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:42:09.183 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:42:09.381 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:10.575 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:11.945 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:42:12.056 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:42:12.056 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:42:13.725 [TestNG-tests-3] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:42:15.211 [TestNG-tests-3] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:42:15.211 [TestNG-tests-3] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:42:24.655 [TestNG-tests-3] Log - runTest4 test failed.
+[INFO ] 2021-08-26 08:42:24.694 [TestNG-tests-3] Log - Finished - Tests : Edge Tests
+[INFO ] 2021-08-26 08:42:24.948 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:42:24.949 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:42:25.407 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:42:25.407 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:42:26.441 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:42:26.838 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:42:27.679 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:42:28.338 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:42:28.787 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:42:29.608 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:29.972 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:42:30.720 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:31.130 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:42:32.001 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:42:32.667 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:42:33.680 [TestNG-tests-1] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:42:34.875 [TestNG-tests-1] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:42:34.876 [TestNG-tests-1] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:42:35.307 [TestNG-tests-1] Log - runTest4 test failed.
+[INFO ] 2021-08-26 08:42:35.320 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:42:38.660 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:42:38.660 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:42:51.065 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:42:51.067 [TestNG-tests-2] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:42:52.416 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:42:53.793 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:42:55.107 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:56.435 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:42:57.765 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:42:59.041 [TestNG-tests-2] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:43:00.198 [TestNG-tests-2] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:43:00.199 [TestNG-tests-2] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:43:01.605 [TestNG-tests-2] Log - runTest4 test failed.
+[INFO ] 2021-08-26 08:43:01.615 [TestNG-tests-2] Log - Finished - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:44:44.244 [TestNG-tests-2] Log - Started - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:44:44.244 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:44:44.244 [TestNG-tests-3] Log - Started - Tests : Edge Tests
+[INFO ] 2021-08-26 08:44:57.012 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:44:57.015 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:44:57.938 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:44:57.939 [TestNG-tests-3] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:45:01.313 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:45:01.525 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:45:03.588 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:45:03.613 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:45:06.099 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:45:06.182 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:45:08.797 [TestNG-tests-3] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:45:08.827 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:45:09.580 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:45:09.581 [TestNG-tests-2] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:45:10.519 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:45:10.593 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:45:10.979 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:45:12.311 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:45:12.475 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:45:12.674 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:45:13.835 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:45:14.740 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:45:14.951 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:45:15.049 [TestNG-tests-2] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:45:16.089 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:45:16.091 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:45:21.049 [TestNG-tests-1] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:21.067 [TestNG-tests-1] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:21.090 [TestNG-tests-1] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:21.286 [TestNG-tests-1] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:21.294 [TestNG-tests-1] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:21.302 [TestNG-tests-1] Log - runTest3 test skipped.
+[INFO ] 2021-08-26 08:45:21.310 [TestNG-tests-1] Log - runTest4 test skipped.
+[INFO ] 2021-08-26 08:45:21.460 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:45:26.050 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:45:30.743 [TestNG-tests-3] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:45:30.745 [TestNG-tests-3] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:45:34.517 [TestNG-tests-2] Log - runTest1 test failed.
+[INFO ] 2021-08-26 08:45:35.728 [TestNG-tests-3] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:35.733 [TestNG-tests-3] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:35.738 [TestNG-tests-3] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:35.743 [TestNG-tests-3] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:35.748 [TestNG-tests-3] Log - runTest2 test skipped.
+[INFO ] 2021-08-26 08:45:35.752 [TestNG-tests-3] Log - runTest3 test skipped.
+[INFO ] 2021-08-26 08:45:35.756 [TestNG-tests-3] Log - runTest4 test skipped.
+[INFO ] 2021-08-26 08:45:35.809 [TestNG-tests-3] Log - Finished - Tests : Edge Tests
+[INFO ] 2021-08-26 08:45:39.339 [TestNG-tests-2] Log - Finished - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:47:26.492 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:47:26.492 [TestNG-tests-2] Log - Started - Tests : Firefox Tests
+[INFO ] 2021-08-26 08:47:26.492 [TestNG-tests-3] Log - Started - Tests : Edge Tests
+[INFO ] 2021-08-26 08:47:38.887 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:47:38.890 [TestNG-tests-3] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:47:39.250 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:47:39.251 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:47:43.380 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:47:43.478 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:47:45.084 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:47:45.377 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:47:46.401 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:47:46.936 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:47:47.998 [TestNG-tests-3] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:47:48.366 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:47:48.596 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:47:48.596 [TestNG-tests-2] Log - runTest1 test is starting.
+[INFO ] 2021-08-26 08:47:49.332 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:47:49.796 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:47:49.958 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:47:50.778 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:47:51.247 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:47:51.327 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:47:52.351 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:47:52.783 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:47:53.032 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:47:53.923 [TestNG-tests-2] Log - Expected and actual error messages match
+[INFO ] 2021-08-26 08:47:55.046 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:47:56.234 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:47:57.575 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:48:22.387 [TestNG-tests-3] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:48:22.389 [TestNG-tests-3] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:48:23.073 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:48:23.074 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:48:27.594 [TestNG-tests-2] Log - No more errors are displayed on the page
+[INFO ] 2021-08-26 08:48:27.594 [TestNG-tests-2] Log - runTest1 test passed.
+[INFO ] 2021-08-26 08:48:32.535 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:48:32.537 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:48:33.435 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:48:33.436 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:48:34.201 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:48:35.183 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:48:35.939 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:48:36.988 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:48:37.635 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:48:38.772 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:48:39.921 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:48:40.428 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:48:41.584 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:48:42.296 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:48:44.516 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:48:45.152 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:48:48.966 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:48:48.967 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:48:50.397 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:48:51.640 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:48:52.853 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:48:54.249 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:48:55.484 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:48:56.977 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:48:57.184 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:48:57.185 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:04.230 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:04.232 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:08.861 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:49:08.862 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:49:09.083 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:09.084 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:10.094 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:49:12.144 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:49:13.462 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:49:14.765 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:49:16.983 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:49:19.892 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:49:20.614 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:49:20.614 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:49:22.111 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:49:24.012 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:49:25.316 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:25.316 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:25.795 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:49:27.668 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:49:28.670 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:49:28.671 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:49:29.089 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:49:30.072 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:49:30.750 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:49:31.259 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:49:32.380 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:49:33.543 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:49:34.317 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:34.318 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:34.742 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:49:36.375 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:49:41.111 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:49:41.112 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:49:43.408 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:49:44.306 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:44.307 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:46.375 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:49:48.550 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:49:50.875 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:49:50.875 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:49:51.297 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:49:52.377 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:49:53.762 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:49:54.021 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:49:55.272 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:49:56.705 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:49:57.904 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:49:57.904 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:49:58.371 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:49:59.968 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:00.523 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:00.524 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:01.291 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:01.874 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:03.306 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:04.767 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:50:06.615 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:50:07.688 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:50:07.688 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:50:07.957 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:08.525 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:08.526 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:09.567 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:10.502 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:11.724 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:13.105 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:50:14.750 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:50:17.290 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:19.858 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:20.848 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:20.849 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:22.121 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:50:22.126 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:50:22.313 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:23.342 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:50:23.342 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:50:23.938 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:25.336 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:50:27.203 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:50:32.229 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:35.292 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:35.544 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:35.544 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:39.752 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:40.826 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:50:40.826 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:50:41.470 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:42.849 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:50:43.621 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:43.621 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:44.281 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:50:44.945 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:46.162 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:46.568 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:47.490 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:50:48.631 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:49.031 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:50:50.300 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:50:51.907 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:50:52.042 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:50:52.042 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:50:53.074 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:50:53.075 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:50:53.396 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:50:54.932 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:50:59.049 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:51:00.677 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:51:00.677 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:51:02.324 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:51:02.847 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:02.847 [TestNG-tests-3] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:51:04.828 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:51:05.380 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:51:06.685 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:51:06.982 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:08.305 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:09.706 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:11.828 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:51:14.643 [TestNG-tests-3] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:51:14.647 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:51:14.647 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:51:16.227 [TestNG-tests-3] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:51:16.227 [TestNG-tests-3] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:51:18.480 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:18.481 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2021-08-26 08:51:19.985 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2021-08-26 08:51:21.598 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2021-08-26 08:51:22.729 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2021-08-26 08:51:24.152 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2021-08-26 08:51:25.680 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2021-08-26 08:51:26.301 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:26.302 [TestNG-tests-3] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:51:27.824 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2021-08-26 08:51:29.258 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:51:29.668 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2021-08-26 08:51:29.669 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2021-08-26 08:51:30.360 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:30.360 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:51:31.601 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:51:33.223 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:34.427 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:34.602 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:51:35.707 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:36.193 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:51:37.332 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:51:38.328 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:39.785 [TestNG-tests-1] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:51:40.402 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:41.489 [TestNG-tests-1] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:51:41.490 [TestNG-tests-1] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:51:41.806 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:43.291 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:44.507 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:45.696 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:51:45.916 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:45.917 [TestNG-tests-2] Log - runTest3 test is starting.
+[INFO ] 2021-08-26 08:51:47.787 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:51:49.494 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:51:50.958 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:51:51.420 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:51:51.421 [TestNG-tests-1] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:51:52.389 [TestNG-tests-3] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:51:52.777 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:51:53.042 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:51:53.753 [TestNG-tests-3] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:51:54.714 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:51:54.954 [TestNG-tests-3] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:51:56.014 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:56.114 [TestNG-tests-3] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:51:57.257 [TestNG-tests-3] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:51:57.314 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2021-08-26 08:51:57.879 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:51:58.464 [TestNG-tests-3] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:51:58.627 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:51:59.033 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:51:59.645 [TestNG-tests-3] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:51:59.645 [TestNG-tests-3] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:51:59.867 [TestNG-tests-2] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2021-08-26 08:52:00.395 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:00.968 [TestNG-tests-2] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2021-08-26 08:52:00.968 [TestNG-tests-2] Log - runTest3 test passed.
+[INFO ] 2021-08-26 08:52:01.616 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:02.753 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:03.396 [TestNG-tests-3] Log - Finished - Tests : Edge Tests
+[INFO ] 2021-08-26 08:52:04.095 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:05.363 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:06.826 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:08.412 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:10.293 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:12.376 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:52:13.828 [TestNG-tests-1] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:52:14.967 [TestNG-tests-1] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:52:15.723 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2021-08-26 08:52:15.724 [TestNG-tests-2] Log - runTest4 test is starting.
+[INFO ] 2021-08-26 08:52:16.081 [TestNG-tests-1] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:52:17.039 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2021-08-26 08:52:17.413 [TestNG-tests-1] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:52:18.556 [TestNG-tests-1] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:52:19.674 [TestNG-tests-1] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:52:20.796 [TestNG-tests-1] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:52:20.796 [TestNG-tests-1] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:52:20.987 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2021-08-26 08:52:21.616 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:52:22.921 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2021-08-26 08:52:24.216 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:25.506 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:26.808 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:28.087 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:29.374 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2021-08-26 08:52:30.675 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:31.980 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:33.288 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2021-08-26 08:52:34.596 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2021-08-26 08:52:35.842 [TestNG-tests-2] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2021-08-26 08:52:36.936 [TestNG-tests-2] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2021-08-26 08:52:38.035 [TestNG-tests-2] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2021-08-26 08:52:39.134 [TestNG-tests-2] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2021-08-26 08:52:40.254 [TestNG-tests-2] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2021-08-26 08:52:41.357 [TestNG-tests-2] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2021-08-26 08:52:42.444 [TestNG-tests-2] Log - Verified total price for all items in cart 108.9
+[INFO ] 2021-08-26 08:52:42.444 [TestNG-tests-2] Log - runTest4 test passed.
+[INFO ] 2021-08-26 08:52:44.009 [TestNG-tests-2] Log - Finished - Tests : Firefox Tests

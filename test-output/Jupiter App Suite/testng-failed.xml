@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Jupiter App Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Chrome Tests(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testRunners.TestNGRunner">
+        <methods>
+          <include name="tearDown"/>
+          <include name="RunTest3"/>
+          <include name="setUp"/>
+          <include name="RunTest4"/>
+        </methods>
+      </class> <!-- testRunners.TestNGRunner -->
+    </classes>
+  </test> <!-- Chrome Tests(failed) -->
+</suite> <!-- Failed suite [Jupiter App Suite] -->

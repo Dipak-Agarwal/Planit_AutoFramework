@@ -1,0 +1,20 @@
+[INFO ] 2021-08-25 19:11:47.239 [TestNG-tests-1] Log - I am in onStart method Chrome Tests
+[INFO ] 2021-08-25 19:11:55.895 [TestNG-tests-1] Log - RunTest1 test is starting.
+[INFO ] 2021-08-25 19:12:35.155 [TestNG-tests-1] Log - RunTest1 test is succeed.
+[INFO ] 2021-08-25 19:12:35.595 [TestNG-tests-1] Log - RunTest1 test is failed.
+[INFO ] 2021-08-25 19:12:36.057 [TestNG-tests-1] Log - I am in onFinish method Chrome Tests
+[INFO ] 2021-08-25 19:16:40.249 [TestNG-tests-1] Log - I am in onStart method Chrome Tests
+[INFO ] 2021-08-25 19:16:47.958 [TestNG-tests-1] Log - RunTest1 test is starting.
+[INFO ] 2021-08-25 19:17:27.419 [TestNG-tests-1] Log - RunTest1 test is succeed.
+[INFO ] 2021-08-25 19:17:27.894 [TestNG-tests-1] Log - RunTest1 test is failed.
+[INFO ] 2021-08-25 19:17:28.352 [TestNG-tests-1] Log - I am in onFinish method Chrome Tests
+[INFO ] 2021-08-25 19:26:37.244 [TestNG-tests-1] Log - I am in onStart method Chrome Tests
+[INFO ] 2021-08-25 19:26:45.419 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2021-08-25 19:27:25.240 [TestNG-tests-1] Log - runTest1 test is succeed.
+[INFO ] 2021-08-25 19:27:31.688 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2021-08-25 19:27:57.345 [TestNG-tests-1] Log - runTest2 test is succeed.
+[INFO ] 2021-08-25 19:28:03.027 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2021-08-25 19:28:11.965 [TestNG-tests-1] Log - runTest3 test is succeed.
+[INFO ] 2021-08-25 19:28:17.435 [TestNG-tests-1] Log - runTest4 test is starting.
+[INFO ] 2021-08-25 19:28:43.423 [TestNG-tests-1] Log - runTest4 test is succeed.
+[INFO ] 2021-08-25 19:28:43.613 [TestNG-tests-1] Log - I am in onFinish method Chrome Tests
